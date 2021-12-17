@@ -11,4 +11,4 @@ Set up:
 
 Run in OS X Terminal:
 - antlr4 -Dlanguage=Python3 pokePyth.g4 
-- python pokePyth.py < <python file to be parsed>
+- python pokePyth.py < "python file to be parsed"
